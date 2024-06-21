@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chenrui Wei's Homepage"
 title_separator          : "-"
 name                     : &name "Chenrui Wei"
-# description              : &description "personal description"
+description              : &description "personal description"
 url                      : https://chenrui-wei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenrui-wei.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Chenrui Wei"
   pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : "Follow your passion, it will lead you to your purpose."
   location         : "Beijing"
   employer         : "BIGAI"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/chenrui-wei"
+  github           : # "https://github.com/chenrui-wei"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
