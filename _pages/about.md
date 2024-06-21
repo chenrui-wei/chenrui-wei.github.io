@@ -15,4 +15,4 @@ Driven by real-world industrial challenges, my passion for artificial intelligen
 **Publications**
 (1) Wei Li and Chen-Rui Wei, "On the Partial Differential Lüroth’s Theorem." Journal of Algebra.
 https://doi.org/10.1016/j.jalgebra.2023.03.036. (in alphabetical order)
-# (2) Chenrui Wei, Mengzhou Sun and Wei Wang, "Proving Olympiad Algebraic Inequalities without Human Demonstrations." 
+
