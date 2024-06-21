@@ -12,3 +12,7 @@ Hi! My name is Chenrui Wei (魏陈锐). I am currently a researcher at the Beiji
 Driven by real-world industrial challenges, my passion for artificial intelligence was ignited. I am dedicated to advancing the field and striving towards the goal of achieving human-level intelligence. Feel free to email me if you are interested in working together.
 
 
+**Publications**
+(1) Wei Li and Chen-Rui Wei, "On the Partial Differential Lüroth’s Theorem." Journal of Algebra.
+https://doi.org/10.1016/j.jalgebra.2023.03.036. (in alphabetical order)
+# (2) Chenrui Wei, Mengzhou Sun and Wei Wang, "Proving Olympiad Algebraic Inequalities without Human Demonstrations." 
