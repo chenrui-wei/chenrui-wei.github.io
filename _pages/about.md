@@ -11,4 +11,4 @@ Hi! My name is Chenrui Wei (魏陈锐). I am currently a researcher at the Beiji
 
 Driven by real-world industrial challenges, my passion for artificial intelligence was ignited. I am dedicated to advancing the field and striving towards the goal of achieving human-level intelligence. Feel free to email me if you are interested in working together.
 
-[Email] chenruiw97@gmail.com
+
