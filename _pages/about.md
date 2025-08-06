@@ -14,4 +14,4 @@ Hi! I’m Chenrui Wei (魏陈锐), a research engineer at ByteDance specializing
 
 2. **Chenrui Wei, Mengzhou Sun, Wei Wang**, "Proving Olympiad Algebraic Inequalities without Human Demonstrations." *Accepted by **NeurIPS 2024***. [arXiv:2406.14219](https://arxiv.org/pdf/2406.14219).
 
-3. ByteDance Seed AI4Math, "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving". Technical report. [https://arxiv.org/pdf/2507.23726] (https://arxiv.org/pdf/2507.23726)
+3. **ByteDance Seed AI4Math**, "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving". Technical report. [https://arxiv.org/pdf/2507.23726] (https://arxiv.org/pdf/2507.23726)
