@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Chenrui Wei (魏陈锐), a researcher at ByteDance Seed AI4Math team specializing in AI for math reasoning. My passion for artificial intelligence was sparked by real-world industrial challenges. I am committed to advancing the field and working toward the long-term goal of human-level or even superintelligence.
+Hi! I’m Chenrui Wei (魏陈锐), a researcher at ByteDance Seed specializing in AI for math reasoning. My passion for artificial intelligence was sparked by real-world industrial challenges. I am committed to advancing the field and working toward the long-term goal of human-level or even superintelligence.
 
 Our recent work, **Seed Prover**, is a formal reasoning system that achieved a silver-medal score on the IMO 2025 and set new state-of-the-art results across all formal reasoning benchmarks ([news](https://seed.bytedance.com/en/blog/bytedance-seed-prover-achieves-silver-medal-score-in-imo-2025)). I mainly worked on test-time inference scaling (light and heavy mode) and data augmentation strategies.
 
